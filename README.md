@@ -17,13 +17,13 @@
      
 ##### ที่ด้านซ้ายสุดคุณจะเห็น KY-038 และที่ด้านขวาของเซ็นเซอร์เสียงไมโครโฟน LM393
 ##### โมดูลเซ็นเซอร์ทั้งสองมี Potentiometer ในตัว
-
+--- 
 ### ***ตัวอย่างการต่อบอร์ด***
 
 <img src="https://www.gravitechthai.com/ckeditor/upload/files/1531973979_815.png"
      alt="Markdown Monster icon"
      style=" margin-left: 40px;" />
-
+--- 
 
 ### **ตัวอย่างโค้ด**
 
